@@ -1,0 +1,9 @@
+.container {
+  height: 100vh;
+  border-right: 2px solid black;
+
+}
+
+.container > div {
+  padding: 1em;
+}
