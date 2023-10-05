@@ -1,9 +1,13 @@
-.container {
-  height: 100vh;
-  border-right: 2px solid black;
+.nav
+ {
+  min-width: 244px;
+  min-height: 100vh;
+ }
 
-}
+ #userImage {
+  width: 60px;
+  height: 60px;
+  background-color: aliceblue;
 
-.container > div {
-  padding: 1em;
-}
+ }
+
